@@ -1,0 +1,11 @@
+Inverse a tree
+
+Naughts and crosses checker
+    - input 2d array (game board)
+    - output 'x' or 'o' depending on winner
+
+Convert arabic number (1:1000) to roman numerals
+
+Find minimum element in a stack in O(1) time - how?
+
+Solve 8 queens on whiteboard
